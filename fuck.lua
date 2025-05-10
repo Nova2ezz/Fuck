@@ -1,0 +1,9 @@
+-- fuck the double agents
+return {
+    Whitelisted = {
+        8311917875,
+        1261348136,
+        1662328284,
+        692257363,
+    }
+}
